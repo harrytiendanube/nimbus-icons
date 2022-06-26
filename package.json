@@ -1,6 +1,6 @@
 {
   "name": "@tiendanube/icons",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Nimbus Icons",
   "private": false,
   "main": "dist/index.umd.js",
